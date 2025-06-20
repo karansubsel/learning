@@ -1,0 +1,8 @@
+this test 2
+test 3
+\end{code}
+\end{code}
+This will create a table with the specified structure and content. The `border` attribute is used to
+add a border around the table, and the `cellpadding` attribute is used to add space betwe
+en the cells and their borders. The `cellspacing` attribute is used to add space between th
+e cells. The `width` attribute is used to set the width of the table. The
